@@ -4,6 +4,7 @@
 - E-mail: lllenklll@gmail.com
 - GitHub: [lllenklll](https://github.com/lllenklll)
 - Telegram: lllenklll
+- Instagram: lllenklll
 ### About myself:
 Keen on learning new things and interested in coding. 
 Strengths: quick learner and responsible person. 
