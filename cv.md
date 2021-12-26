@@ -17,7 +17,7 @@ Weaknesses: tendency to overwork.
 ### Code examples:
 
 ### Education:
-I'am a 2-year student of the Minsk State Linguistic University (Faculty of Intercultural Communication).
+I am a 2-year student of the Minsk State Linguistic University (Faculty of Intercultural Communication).
 ### Languages:
 1. Russian - native
 2. Belarusian - native
