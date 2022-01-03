@@ -17,6 +17,7 @@ img {
   }
   html {
     scroll-behavior: smooth; 
+    background-color: #BEAFEF;
   }
   body {
     font-family: 'Roboto', sans-serif;
@@ -30,9 +31,7 @@ color: #2E5C16;
 font: 64px Denk one;
   }
   }
-  header {
-      background-color: DAC3F7;
-  }
+  
   .nav-link {
     transition: .3s;
   }
