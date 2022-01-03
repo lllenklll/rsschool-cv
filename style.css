@@ -1,7 +1,7 @@
 <style>
 img { 
     margin:auto;
-    align-items: center;
+    box-align: center;
     size: 50%;
 }
 .nav-list {
@@ -18,7 +18,7 @@ img {
   }
   html {
     scroll-behavior: smooth; 
-    background-color: #BEAFEF;
+    background-color: #F5DCAE;
   }
   body {
     font-family: 'Roboto', sans-serif;
@@ -28,8 +28,8 @@ img {
     color: #4d2323;
   }
   h1 {
-color: #2E5C16;
-font: 64px Denk one;
+color: #1d4109;
+font: bold 64px Denk one;
   }
   }
   
