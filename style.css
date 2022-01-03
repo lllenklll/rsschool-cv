@@ -1,6 +1,7 @@
 <style>
 img { 
     margin:auto;
+    align-items: center;
 }
 .nav-list {
     display: flex;
