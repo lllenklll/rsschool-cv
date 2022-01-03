@@ -2,7 +2,8 @@
 img { 
     margin:auto;
     box-align: center;
-    size: 50%;
+    align-content: center;
+    
 }
 .nav-list {
     display: flex;
