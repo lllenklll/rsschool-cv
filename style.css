@@ -2,6 +2,7 @@
 img { 
     margin:auto;
     align-items: center;
+    size: 50%;
 }
 .nav-list {
     display: flex;
