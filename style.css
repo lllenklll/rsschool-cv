@@ -1,5 +1,5 @@
 <style>
-img {
+img { 
     margin:auto;
 }
 .nav-list {
@@ -17,11 +17,21 @@ img {
   html {
     scroll-behavior: smooth; 
   }
+  body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #4d2323;
+  }
   h1 {
-      font-size: large;
-      font: bold 40px Arial;
+color: #2E5C16;
+  }
   }
   header {
       background-color: DAC3F7;
+  }
+  .nav-link {
+    transition: .3s;
   }
 </style>
