@@ -21,4 +21,7 @@ img {
       font-size: large;
       font: italic bold 24px Arial;
   }
+  html {
+      background-color: DAC3F7;
+  }
 </style>
