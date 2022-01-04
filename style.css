@@ -1,8 +1,9 @@
 <style>
 img { 
     margin:auto;
-    box-align: center;
-    align-content: center;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
     
 }
 .nav-list {
