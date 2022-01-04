@@ -1,4 +1,32 @@
 <style>
+* {
+  box-sizing: border-box; 
+}
+body {
+  margin: 0;
+}
+#main {
+  display: flex;
+  min-height: calc(100vh - 40vh);
+}
+#main > article {
+  flex: 1;
+}
+#main > nav, 
+#main > aside {
+  flex: 0 0 20vw;
+  background: beige;
+}
+#main > nav {
+  order: -1;
+}
+header, footer, main, nav {
+  padding: 1em;
+}
+header, footer {
+  background: rgb(148, 172, 102);
+  height: 20vh;
+}
 img { 
     margin:auto;
     display: flex;
@@ -25,6 +53,7 @@ img {
     background-color: #F5DCAE;
   }
   body {
+    align-items: center;
     font-family: 'Roboto', sans-serif;
     font-size: 18px;
     font-weight: 400;
