@@ -1,5 +1,10 @@
 <style>
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 
+}
 img { 
     margin:auto;
     display: flex;
