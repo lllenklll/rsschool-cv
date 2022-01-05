@@ -1,5 +1,8 @@
+html {
+  scroll-behavior: smooth; 
+}
 body {
-  font-family: 'Josefine Sans', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
   min-height: 100vh;
   margin: 0; 
   padding: 0;
@@ -17,10 +20,27 @@ body {
   margin: 0 auto;
 }
 h1 {
-  font-family: 'Josefin+Sans:ital', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
   text-align: center;
   color: rgb(131, 67, 47);
 }
 img {
   align-items: center;
+  margin: auto;
 }
+.nav-list {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.nav-list {
+  list-style: none;
+  font-family: 'Josefin Sans';
+  color: black;
+font-size: 40px;
+}
+.nav-link {
+  padding: 0 20px;
+  line-height: 50px;
+}
+

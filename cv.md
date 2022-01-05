@@ -6,8 +6,7 @@
 - Telegram: lllenklll
 - Instagram: lllenklll
 ### About myself:
-Keen on learning new things and interested in coding. 
-Strengths: quick learner and responsible person. 
+I'm keen on learning new things and interested in coding. I always meet the deadlines and can call myself a quick learner. Strengths: enthusiasm, quick mind, responsibility. 
 Weaknesses: tendency to overwork.
 ### Skills:
 - Basics of HTML
