@@ -80,7 +80,15 @@ font-size: 40px;
 }
 
 .section {
-  
-  align-content: center;
+
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto 
+}
+@media (max-width: 768px) {
+  .section {
+    width: 100%;
+  }
+
 }
 
