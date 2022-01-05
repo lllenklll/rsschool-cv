@@ -1,47 +1,18 @@
-<style>
-
-img { 
-    margin:auto;
-    display: flex;
-    justify-content: flex-end;
-    align-items: center;
-    
+body {
+  font-family: 'Josefine Sans', sans-serif;
+  min-height: 100vh;
+  margin: 0; 
+  padding: 0;
 }
-.nav-list {
-    display: flex;
-    justify-content: flex-end;
-    align-items: center;
-    text-align: center;
-    margin: auto;
-  }
-  .nav-list {
-    list-style: none;
-  }
-  .nav-link {
-    padding: 0 20px;
-    line-height: 50px;
-  }
-  html {
-    scroll-behavior: smooth; 
-    background-color: #F5DCAE;
-  }
-  body {
-    display: flex;
-    background: #bef1a2;
-    align-items: center;
-    font-family: 'Roboto', sans-serif;
-    font-size: 18px;
-    font-weight: 400;
-    line-height: 1.5;
-    color: #4d2323;
-  }
-  h1 {
-color: #1d4109;
-font: bold 64px Denk one;
-  }
-  }
-  
-  .nav-link {
-    transition: .3s;
-  }
-</style>
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+* {
+  box-sizing: border-box;
+}
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+}
