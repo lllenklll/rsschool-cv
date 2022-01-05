@@ -11,6 +11,12 @@ main {
     margin-right: auto;
    
 }
+h1 {
+  text-align: center;
+}
+img {
+  align-content: center;
+}
 footer {
   align-content: center;
   margin-left: auto;
