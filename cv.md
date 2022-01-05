@@ -18,6 +18,8 @@ Weaknesses: tendency to overwork.
 
 ### Education:
 I am a 2-year student of the Minsk State Linguistic University (Faculty of Intercultural Communication).
+### Experience:
+None.
 ### Languages:
 1. Russian - native
 2. Belarusian - native
