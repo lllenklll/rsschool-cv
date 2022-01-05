@@ -5,6 +5,10 @@ html {
     margin-right: auto;
     width: 6em
 }
+img.displayed {
+  display: block;
+  margin-left: auto;
+  margin-right: auto }
 main {
   align-content: center;
   margin-left: auto;
