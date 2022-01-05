@@ -16,3 +16,8 @@ body {
   max-width: 1440px;
   margin: 0 auto;
 }
+h1 {
+  font-family: 'Josefine Sans', sans-serif;
+  text-align: center;
+  color: rgb(131, 67, 47);
+}
