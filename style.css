@@ -1,9 +1,15 @@
 html {
   scroll-behavior: smooth; 
   background-color: rgb(238, 218, 255);
+  margin-left: auto;
+    margin-right: auto;
+    width: 6em
 }
 main {
   align-content: center;
+  margin-left: auto;
+    margin-right: auto;
+    width: 6em
 }
 body {
   font-family: 'Josefin Sans', sans-serif;
