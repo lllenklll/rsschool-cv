@@ -1,5 +1,5 @@
-
 html {
+
   scroll-behavior: smooth; 
   background-color:#e95916;
 }
@@ -12,8 +12,9 @@ main {
   
    
 }
-h1 {
+.section-title .name {
   text-align: center;
+  color: black;
   align-content: center;
   margin-left: 20px;
     margin-right: auto;
@@ -31,10 +32,10 @@ body {
   min-height: 100vh;
   margin: 0; 
   padding: 0;
-  font-size: 28px;
+  font-size: 40px;
   font-weight: 400;
   line-height: 1.5;
-  color: #046611;
+  color: #fafaf6;
   background:#e95916;
     display: flex;
   flex-direction: column;
@@ -73,7 +74,10 @@ body {
   margin: auto;
 
 }
-
+.displayed {
+  align-items: center;
+  margin: 0 470px;
+}
 
 .nav-list {
   display: flex;
